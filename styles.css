@@ -1,2 +1,6 @@
 
 /* Your CSS Code here. */
+
+form > input, label,select, button {
+	margin:.8rem;
+}
